@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Snake
 
 on:
   schedule:
@@ -9,15 +9,23 @@ on:
       - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
         with:
           github_user_name: MuferrehFatima
-          outputs: |
-            dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
+          outputs: dist/snake.svg
+
+      - name: Push animation to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
