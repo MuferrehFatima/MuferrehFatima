@@ -97,9 +97,11 @@
 
 
 ## 🐍 Snake Contribution Animation
-<div align="center">
-<img src="https://github.com/MuferrehFatima/MuferrehFatima/blob/output/github-contribution-grid-snake-dark.svg" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+</picture>
 
 
 
