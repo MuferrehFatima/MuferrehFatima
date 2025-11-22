@@ -8,16 +8,16 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Engineer;Tech+Explorer+%26+Software+Developer;Creative+Thinker+&+Builder;Welcome+to+my+GitHub+Universe!">
 </h3>
 
 ---
 
 ### 🖤 About Me
-- 🌱 Learning: **Java | DSA | AI/ML**
-- 👯 Looking to collaborate on: **Java Projects & ML Models**
-- 🎧 Productivity fuel: Music + Coffee
-- 💭 Motto: *“Keep pushing. Your future self is watching.”*
+- 🤖 Exploring AI & Machine Learning
+- 🚀 Full-Stack Developer
+- 🌐 Tech Explorer & Problem Solver
+- 🤝 Collaborator & Open Source Supporter
   
 
 ## ⚙️ Tech & Tools
