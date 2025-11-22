@@ -18,8 +18,7 @@
 - 👯 Looking to collaborate on: **Java Projects & ML Models**
 - 🎧 Productivity fuel: Music + Coffee
 - 💭 Motto: *“Keep pushing. Your future self is watching.”*
-
----
+  
 
 ## ⚙️ Tech & Tools
 <div align="left">
