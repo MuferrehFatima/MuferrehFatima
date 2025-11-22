@@ -24,15 +24,31 @@
 ## ⚙️ Tech & Tools
 <div align="center">
 
+### 🧠 Programming & Development
 ![Java](https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
 
+### 🛠 Frameworks & Libraries
+![Spring](https://img.shields.io/badge/Spring-000000?logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white)
+
+### 🧰 Tools & Platforms
 ![VSCode](https://img.shields.io/badge/VSCode-000000?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+
+### 🗄 Databases & Cloud
 ![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=white)
+
+### 📦 Others
+![Postman](https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 
 </div>
 
