@@ -11,6 +11,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;Future+AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
 </h3>
 
+---
 
 ### 🖤 About Me
 - 🌱 Learning: **Java | DSA | AI/ML**
