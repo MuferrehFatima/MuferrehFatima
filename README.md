@@ -96,8 +96,7 @@
 ---
 
 
-## 🐍 Snake Contribution Animation
-![Snake animation](https://github.com/MuferrehFatima/MuferrehFatima/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
