@@ -4,11 +4,11 @@
 </div>
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
-  Hey, I'm <b>Muferreh Fatima</b> 👩‍💻
+  Hey, I'm <b>Muferreh Fatima</b> 💻
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;Future+AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
 </h3>
 
 ---
@@ -22,8 +22,6 @@
 
 ## ⚙️ Tech & Tools
 <div align="left">
-
-### 🧠 Programming & Development
 
 ### 🧠 Languages & Core Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -95,11 +93,9 @@
 
 ---
 
+
+## Contribution Game
 ![snake gif](https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/snake-dark.svg)
-
-
-
-
 
 
 ---
