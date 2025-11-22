@@ -20,7 +20,7 @@
 - 🤝 Collaborator & Open Source Supporter
   
 
-## ⚙️ Tech & Tools
+
 <div align="left">
 
 ### 🧠 Languages & Core Skills
