@@ -31,24 +31,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
 
 ### 🛠 Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-000000?logo=spring&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-000000?logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 
-### 🧰 Tools & Platforms
-![VSCode](https://img.shields.io/badge/VSCode-000000?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
-### 🗄 Databases & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-000000?logo=firebase&logoColor=white)
-
-### 📦 Others
-![Postman](https://img.shields.io/badge/Postman-000000?logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white)
 
 </div>
 
