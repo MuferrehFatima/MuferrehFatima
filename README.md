@@ -13,6 +13,12 @@
 
 ---
 
+## 🧠 Focus Mode
+
+<p align="center">
+  <img src="https://media.tenor.com/1nqlYjbqZK8AAAAC/matrix-code.gif" width="400">
+</p>
+
 ### 🖤 About Me
 - 🌱 Learning: **Java | DSA | AI/ML**
 - 👯 Looking to collaborate on: **Java Projects & ML Models**
