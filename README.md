@@ -19,7 +19,7 @@
 - 🌐 Tech Explorer & Problem Solver
 - 🤝 Collaborator & Open Source Supporter
   
-
+---
 
 <div align="left">
 
