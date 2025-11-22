@@ -1,16 +1,89 @@
-<h1 align="center">Hi 👋, I'm Muferreh Fatima</h1>
-<h3 align="center">A passionate software developer</h3>
+<!-- Dark Header + Typing Animation -->
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
+  Hey, I'm <b>Muferreh Fatima</b> 👩‍💻
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muferrehfatima&label=Profile%20views&color=0e75b6&style=flat" alt="muferrehfatima" /> </p>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;Future+AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
+</h3>
 
-- 📫 How to reach me **muferrehfatima@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/muferreh-fatima-30811a340/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muferreh-fatima-30811a340/" height="30" width="40" /></a>
-</p>
+### 🖤 About Me
+- 🌱 Learning: **Java | DSA | AI/ML**
+- 👯 Looking to collaborate on: **Java Projects & ML Models**
+- 🎧 Productivity fuel: Music + Coffee
+- 💭 Motto: *“Keep pushing. Your future self is watching.”*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muferrehfatima&show_icons=true&locale=en&layout=compact" alt="muferrehfatima"/></p>
+## ⚙️ Tech & Tools
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-000000?logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Profile Trophy
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🐍 Snake Contribution Animation
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
+---
+
+## 👀 Visitor Counter
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=flat-square" />
+</div>
+
+---
+
+## 🎬 Cool GIF
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350">
+</div>
+
+---
+
+## 🔗 Connect With Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+
+</div>
+
+---
+
+### ✨ Quote of the Day
+> *“All our dreams can come true, if we have the courage to pursue them.” — Walt Disney*
+
+---
+
+⭐ _Support me by starring some repositories!_
