@@ -37,29 +37,29 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MuferrehFatima&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuferrehFatima&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🏆 Profile Trophy
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=MuferrehFatima&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 ---
 
 ## 🐍 Snake Contribution Animation
 <div align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
 ---
 
 ## 👀 Visitor Counter
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=blue&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=MuferrehFatima&label=Visitors&color=blue&style=flat-square" />
 </div>
 
 ---
