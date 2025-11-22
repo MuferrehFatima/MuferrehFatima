@@ -95,7 +95,6 @@
 
 ---
 
-
 ![snake gif](https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/snake-dark.svg)
 
 
