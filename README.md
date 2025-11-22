@@ -59,10 +59,11 @@
 ## 🔗 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](YOUR_LINKEDIN_LINK)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](YOUR_INSTAGRAM_LINK)
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:YOUR_EMAIL_HERE)
-[![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116)](YOUR_LEETCODE_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_LINK)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
+
 
 </div>
 
