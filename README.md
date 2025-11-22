@@ -15,14 +15,9 @@
 
 ## 💻 Coding in Action
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-
+<div align="right">
+  
 <img src="https://media.giphy.com/media/PI3QGKFN6XZUC/giphy.gif" width="350" />
-
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="350" />
-
 </div>
 
 
