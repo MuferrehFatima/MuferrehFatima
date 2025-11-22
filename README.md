@@ -25,12 +25,7 @@
 <div align="left">
 
 ### 🧠 Programming & Development
-![Java](https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=white)
 
-### 🛠 Frameworks & Libraries
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
