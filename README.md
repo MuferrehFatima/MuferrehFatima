@@ -43,13 +43,6 @@
 
 ---
 
-## 🏆 Profile Trophy
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MuferrehFatima&theme=tokyonight&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 ## 🐍 Snake Contribution Animation
 <div align="center">
 <img src="https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/github-contribution-grid-snake-dark.svg"/>
