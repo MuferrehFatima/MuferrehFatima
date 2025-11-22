@@ -3,7 +3,9 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> 
   Hey, I'm <b>Muferreh Fatima</b> 👩‍💻
 </h1>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=MuferrehFatima&label=Visitors&color=blue&style=flat-square" />
+</div>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;Future+AI%2FML+Engineer;Tech+Explorer+%26+Fast+Learner;Dark+Theme+Lover;Welcome+to+my+GitHub+Universe!">
 </h3>
@@ -46,13 +48,6 @@
 ## 🐍 Snake Contribution Animation
 <div align="center">
 <img src="https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
----
-
-## 👀 Visitor Counter
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=MuferrehFatima&label=Visitors&color=blue&style=flat-square" />
 </div>
 
 ---
