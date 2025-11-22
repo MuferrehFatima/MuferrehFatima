@@ -96,7 +96,7 @@
 ---
 
 
-![Muferreh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuferrehFatima&show_icons=true&theme=black)
+![snake gif](https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/snake-dark.svg)
 
 
 
