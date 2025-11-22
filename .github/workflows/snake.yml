@@ -21,8 +21,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
-          github_user_name: MuferrehFatima
-          outputs: dist/snake.svg
+             github_user_name: MuferrehFatima
+             outputs: |
+              dist/snake.svg
+              dist/snake-dark.svg?palette=github-dark
+
 
       - name: Push animation to output branch
         uses: crazy-max/ghaction-github-pages@v3
