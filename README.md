@@ -22,7 +22,7 @@
 ---
 
 ## ⚙️ Tech & Tools
-<div align="center">
+<div align="left">
 
 ### 🧠 Programming & Development
 ![Java](https://img.shields.io/badge/Java-000000?logo=openjdk&logoColor=white)
