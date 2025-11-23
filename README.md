@@ -79,7 +79,6 @@
 
 ---
 
-## 📊 GitHub Stats
 <div align="left">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=MuferrehFatima&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuferrehFatima&layout=compact&theme=tokyonight&hide_border=true" />
@@ -88,7 +87,7 @@
 ---
 
 
-## Contribution Game
+## 👾 Contribution Game
 ![snake gif](https://raw.githubusercontent.com/MuferrehFatima/MuferrehFatima/output/snake-dark.svg)
 
 
