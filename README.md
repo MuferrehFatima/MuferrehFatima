@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Engineer;Tech+Explorer+%26+Software+Developer;Creative+Thinker+And+Builder;Welcome+to+my+GitHub+Universe!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+Developer;AI%2FML+Engineer;Tech+Explorer+%26+Software+Developer;Game+Developer;Welcome+to+my+GitHub+Universe!">
 </h3>
 
 ---
@@ -16,6 +16,7 @@
 ### 🖤 About Me
 - 🤖 Exploring AI & Machine Learning
 - 🚀 Full-Stack Developer
+- 👾 Game developer
 - 🌐 Tech Explorer & Problem Solver
 - 🤝 Collaborator & Open Source Supporter
   
@@ -73,6 +74,12 @@
 ### ☁ Cloud Services
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+
+## 🎮 Game Development Tools
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=black)
 
 
 </div>
